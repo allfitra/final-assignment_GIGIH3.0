@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Video from "./pages/Video";
 import { Provider } from "react-redux";
-// import store from "../redux/store";
+// import store from "../scr/redux/store";
 
 const App = () => {
   return (
