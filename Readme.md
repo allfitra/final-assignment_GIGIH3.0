@@ -6,7 +6,7 @@ Create .env file in the backend folder and add the following environment variabl
 
 ```
 # PORT=5000
-# MONGO_URI= your mongo uri connection string from mongodb
+# DATABASE_URL= your mongo uri connection string from mongodb
 ```
 
 Create .env file in the frontend folder and add the following environment variables, values can be found from firebase project setup
